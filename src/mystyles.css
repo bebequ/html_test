@@ -1,0 +1,20 @@
+/*
+*{
+	margin: 0px;
+}
+
+p:nth-child(odd) {
+	background: #999999;
+}
+
+p:nth-child(even) {
+	background: #CCCCCC;
+}
+
+:not(.mytextB) {
+	margin: 10px;
+}
+*/
+
+.mytextA {font-size: 50px}
+#text1 {font-size: 7px}
